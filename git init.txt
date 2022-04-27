@@ -1,0 +1,4 @@
+git init
+git config --global user.nam  your username
+git config --global user.email --your email
+git show log
