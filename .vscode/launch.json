@@ -5,9 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Dart & Flutter",
+            "name": "if else ",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "if_else.dart"
         }
     ]
 }
