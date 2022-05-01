@@ -1,4 +1,6 @@
 git init
-git config --global user.nam  your username
+git config --global user.name  your username
 git config --global user.email --your email
 git show log
+
+list map and string ko function haru herne::
